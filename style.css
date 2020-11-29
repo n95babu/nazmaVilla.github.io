@@ -1096,7 +1096,8 @@ html[dir="rtl"] .sm8sCf {
   .IeYwod {
     height: 64px;
     justify-content: space-between;
-    padding: 0 66px
+    padding: 0 66px;
+  /* background-color: red !important; */
   }
 }
 
@@ -1124,7 +1125,7 @@ html[dir="rtl"] .sm8sCf {
 }
 
 .UQyKne {
-  /* background-color: white; */
+  background-color: white;
   bottom: 0;
   left: 0;
   box-shadow: 0 0 5px grey;
