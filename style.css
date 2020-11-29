@@ -334,7 +334,7 @@ img {
 
 .O0WRkf.RDPZE {
   box-shadow: none;
-  color: rgba(68, 68, 68, 0.502);
+  /* color: rgba(68, 68, 68, 0.502); */
   cursor: default;
   fill: rgba(68, 68, 68, 0.502)
 }
@@ -405,7 +405,7 @@ img {
 }
 
 .z80M1 {
-  color: #222;
+  color: #fff;
   cursor: pointer;
   display: block;
   outline: none;
@@ -697,7 +697,7 @@ html[dir="rtl"] .sm8sCf {
 
 .eFU66c .oYxtQd,
 .eFU66c .PDllHc {
-  color: #5f9bce
+  color: #fff
 }
 
 .eFU66c .oYxtQd:hover,
@@ -715,11 +715,11 @@ html[dir="rtl"] .sm8sCf {
 }
 
 .eFU66c .PDllHc {
-  border-color: #5f9bce
+  border-color: #fff
 }
 
 .eFU66c .CoIOBe {
-  color: #5f9bce;
+  color: #fff;
   font-family: 'Comfortaa', sans-serif
 }
 
